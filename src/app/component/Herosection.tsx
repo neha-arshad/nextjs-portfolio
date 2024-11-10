@@ -28,7 +28,7 @@ const Herosection:any = () => {
             Welcome to my portfolio!
           </h1>
 
-          <p className="text-white mt-4 text-base sm:text-lg italic  mb-6 lg:text-xl">
+          <p className="text-white mt-4 text-base sm:text-lg italic  mb-6 lg:text-xl p-3">
             Hello! I’m Neha, a passionate Full Stack Developer I am on the path
             to becoming a full stack developer, and I'm excited about the
             journey ahead. Currently, I am exploring the latest advancements in
