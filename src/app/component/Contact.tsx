@@ -6,7 +6,7 @@ import React from 'react'
 const Contact = () => {
   return (
     <section className="grid md:grid-cols-2 my-12 md:my-12 py-24 gap-4 relative" id="contact">
-      {/* <div className="bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-pink-500 to-transparent rounded-full blur-lg h-64 w-64 z-0 absolute top-full -left-4 transform -translate-x-1/2 -translate-y-1/2"></div> */}
+     
       <div className="z-10">
         <h5 className="text-xl font-bold text-white my-2">Let's Connect</h5>
 
